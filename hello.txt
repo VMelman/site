@@ -1,2 +1,3 @@
 Hello, world!
 Great job, man!
+It is a new commit!
